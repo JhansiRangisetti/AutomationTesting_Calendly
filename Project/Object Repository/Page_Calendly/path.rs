@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>7e12ee9e-0374-4994-9f7a-9da2e84076e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.u1xbh6v5.Q7BjCR7FIxdiIfFNzdxN.S1p4LxGLVP7Hq78PMKS6 > span.b1hdxvdx.b1wd19y1.s1p6ipfe > svg > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>25e878ab-20eb-4c85-8ef4-3e8f645045dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>m9.5.5-9 9M.5.5l9 9</value>
+      <webElementGuid>17859412-6fe3-40b0-9800-e2ed4a6ed8f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>ae0fc71f-8533-4af0-9f5a-801d741b599c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>b31ebe7c-5402-4d33-a7a4-c8bfcff4bda3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>66e93675-5d5f-4075-9cae-74f405841ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>d789e105-5974-4009-8547-198dc9694520</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;Es8downQlxiASDyltHtn HhJ8keLZ1SBupKzmsP0V _C_TCiqAjdTOkIIzyy7N hzNtQT3DRnRbKEc8uEG2 _CT5fMYYPxxNEyDeQ0Jh&quot;]/div[@class=&quot;p1fv2xvi c148e1tk&quot;]/div[@class=&quot;sdqpodb&quot;]/div[@class=&quot;ik2zh9x&quot;]/div[@class=&quot;_SiiJCD0zDamabsTR1z4 wnlpiHLZDowVMC8pLZ2U s9oqwmp&quot;]/div[@class=&quot;NixWKGx7Fxyta_4V4ufF KHx3H8hFBhrHCSSrHTXZ y6vUSMWWy6Y9PeBaV0PP&quot;]/button[@class=&quot;u1xbh6v5 Q7BjCR7FIxdiIfFNzdxN S1p4LxGLVP7Hq78PMKS6&quot;]/span[@class=&quot;b1hdxvdx b1wd19y1 s1p6ipfe&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>50f0699f-fffb-4241-ba0b-5eea56d5e2b6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_1</name>
+   <tag></tag>
+   <elementGuidId>aa5bd855-2c2b-4050-accd-ab9b0b72caec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.b1hdxvdx.DIz_s0F8j7rpNwgmmNP5._srKP9C8QdY2iexxtbTj.s13brrra > div.u1xbh6v5.cuma89m > div.icj9ovg > span.b1hdxvdx.b1wd19y1.s1p6ipfe > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Working hours'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>8e241cb4-6e05-48ee-9fce-412c175fae73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>983c45c8-8abe-4001-9eb3-b2df9a749b5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>32c067e0-d8ad-4859-86e1-ce7aa39ef1a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>4a257e7f-cf31-4381-bf9f-2a94d0095107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f1d46684-13a9-4f6f-ac53-1995a3c25a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;Es8downQlxiASDyltHtn HhJ8keLZ1SBupKzmsP0V _C_TCiqAjdTOkIIzyy7N hzNtQT3DRnRbKEc8uEG2 _CT5fMYYPxxNEyDeQ0Jh&quot;]/div[@class=&quot;p1fv2xvi c148e1tk&quot;]/div[@class=&quot;sdqpodb&quot;]/div[@class=&quot;ik2zh9x&quot;]/div[@class=&quot;iKiHm2OV3O0V1m7iw913 ebannVwMa5zA_j5Oi67A&quot;]/div[@class=&quot;_ifRS_qvL8xEX9WQrdvA NksYKegVQcKqiqtmvYzj&quot;]/div[@class=&quot;Hrg5xQCWBsTBpkUAKhK9 CgsLs1LTluk0tXisF_Sp&quot;]/div[@class=&quot;nDnwXHqvucJNiZ8VtmHU nguKnZQE9OTtZSoaYHbo&quot;]/div[@class=&quot;ZFcqPWAR9qbzYqIj4cOe alv0lwiKjBFnIkaMgwnu&quot;]/div[@class=&quot;_4qXY77a0OG1cjdOPQEf _CHG0gRD1Y5PnchQR5ZE&quot;]/div[@class=&quot;l5DmcFXi7xR1NdAzG_yn zvUBHvLHbJiAr520EVhU&quot;]/div[2]/div[@class=&quot;b1hdxvdx DIz_s0F8j7rpNwgmmNP5 _srKP9C8QdY2iexxtbTj s13brrra&quot;]/div[@class=&quot;u1xbh6v5 cuma89m&quot;]/div[@class=&quot;icj9ovg&quot;]/span[@class=&quot;b1hdxvdx b1wd19y1 s1p6ipfe&quot;]/svg[1]</value>
+      <webElementGuid>fbacb0d7-8487-470a-ad22-bbbe5fb68a82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working hours'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>ab5940ee-c7ea-43cd-aae8-5b82952097d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rangisetti Jhansi'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>56421150-4e58-4a75-babf-55a28878cb98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You are the only one in your organization. Add users to include them as hosts.'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>539cf182-a8b6-48f8-a087-ff4b70bbedaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aug 2023'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>d40048f6-d9b8-44be-8bd2-0ce7291e9b9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

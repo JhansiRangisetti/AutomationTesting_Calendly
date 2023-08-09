@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Address, web conferencing, phone call</name>
+   <tag></tag>
+   <elementGuidId>833c929d-a49c-48cd-9532-18d35e8e3a35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p14t8366</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='oneoff-creation-form']/div/div[2]/div[4]/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6a160db4-a75d-4ea2-b2bc-ccfec183f564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p14t8366</value>
+      <webElementGuid>b0f51083-62a2-4ccf-b009-eb4457f96cfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Address, web conferencing, phone call ...</value>
+      <webElementGuid>094acd2b-fb7f-4fd9-bee4-9a2b39c501ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oneoff-creation-form&quot;)/div[@class=&quot;_F9oE892ts0nVp5uaZJB _6hUNYbPG2FGeEH5dXkP crYd0lu2AMgLzLUSB0IQ ZFcqPWAR9qbzYqIj4cOe alv0lwiKjBFnIkaMgwnu&quot;]/div[@class=&quot;fArzN1GxoJ_dPWGSvbs2 fCtFzfKhHSXjCDHNIaAW UZ4e6tpWogAexFjEX58Y tjiXJCV0IV_7rm4Icv3Q tMaHbTnoEeJ4D9GNuXvB&quot;]/div[@class=&quot;_zREc0laSj_y2izmGCkQ IPGOMPRjDkbdqz_xj4dR&quot;]/div[@class=&quot;KslMradQVWcr7Yz39U7o r_GE2Hwo6_gJu2Afimk6&quot;]/div[@class=&quot;b1hdxvdx s13brrra&quot;]/div[@class=&quot;u1xbh6v5 cuma89m&quot;]/div[@class=&quot;c1ubbz9n&quot;]/div[@class=&quot;p14t8366&quot;]</value>
+      <webElementGuid>47b39ddd-33cb-4db6-94d9-c809369bfae5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='oneoff-creation-form']/div/div[2]/div[4]/div/div[2]/div/div/div</value>
+      <webElementGuid>045d21bb-7aa1-4ba0-873c-7d4222f7ec26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/following::div[4]</value>
+      <webElementGuid>006237d8-48e4-4f6a-a4d5-aea004bcb46c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add details/agenda'])[1]/preceding::div[2]</value>
+      <webElementGuid>bc66b2f1-e41a-4e28-8953-f0c9a7be0227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::div[3]</value>
+      <webElementGuid>1104f13f-ad92-4c62-bd5b-0a9e919b5d01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Address, web conferencing, phone call ...']/parent::*</value>
+      <webElementGuid>44429661-ee85-41de-adcc-74d30910df83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div/div</value>
+      <webElementGuid>807c33ea-e409-48bf-a602-f7c8d24f758b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Address, web conferencing, phone call ...' or . = 'Address, web conferencing, phone call ...')]</value>
+      <webElementGuid>1e45801d-f837-402b-8b08-2a40409bb628</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

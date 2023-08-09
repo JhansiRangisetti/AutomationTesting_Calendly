@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_We use cookies to provide a proactive s_a56da1</name>
+   <tag></tag>
+   <elementGuidId>6b17919c-6b8c-4dd1-b623-e443a1e5b47a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#onetrust-policy-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='onetrust-policy-text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d0776adb-04db-487d-afee-7029a2660b25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onetrust-policy-text</value>
+      <webElementGuid>46a0689e-f58b-4db5-a0bf-4939550d7700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>We use cookies to provide a proactive support experience, enhance site navigation, analyze site usage, and assist in our marketing efforts. In certain countries, by continuing to use this website and navigating to a different page, you agree that you have read and consented to the use of cookies. Click here to read about how we may use your personal data.</value>
+      <webElementGuid>09f3fe29-0d73-4ecf-a52a-76b924eff432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-policy-text&quot;)</value>
+      <webElementGuid>56f231e6-ed0e-4d6b-be45-56e0a2a56df9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='onetrust-policy-text']</value>
+      <webElementGuid>ae614154-255c-46ad-a390-4ebe4e7bcb71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='onetrust-policy']/div</value>
+      <webElementGuid>84e394df-403a-49c6-8bbb-91dd3b69eaf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We respect your personal privacy'])[1]/following::div[1]</value>
+      <webElementGuid>0e3c5d9c-5a2f-460a-a46d-799920060ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'onetrust-policy-text', '&quot;', ')')])[1]/following::div[12]</value>
+      <webElementGuid>8eadf009-5f69-4707-bd60-e6148ed680ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject all'])[1]/preceding::div[1]</value>
+      <webElementGuid>f154ee6b-6474-4462-8e81-5c759086f8ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='We use cookies to provide a proactive support experience, enhance site navigation, analyze site usage, and assist in our marketing efforts. In certain countries, by continuing to use this website and navigating to a different page, you agree that you have read and consented to the use of cookies.']/parent::*</value>
+      <webElementGuid>3a61bedb-060a-4296-982c-21f47e60881d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div</value>
+      <webElementGuid>0365f1a3-9ef0-47d1-b167-759b7ed4be5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'onetrust-policy-text' and (text() = 'We use cookies to provide a proactive support experience, enhance site navigation, analyze site usage, and assist in our marketing efforts. In certain countries, by continuing to use this website and navigating to a different page, you agree that you have read and consented to the use of cookies. Click here to read about how we may use your personal data.' or . = 'We use cookies to provide a proactive support experience, enhance site navigation, analyze site usage, and assist in our marketing efforts. In certain countries, by continuing to use this website and navigating to a different page, you agree that you have read and consented to the use of cookies. Click here to read about how we may use your personal data.')]</value>
+      <webElementGuid>c74672bf-9787-43fc-9012-faa8c43c2160</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

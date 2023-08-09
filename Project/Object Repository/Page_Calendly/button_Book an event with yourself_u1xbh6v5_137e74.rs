@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Book an event with yourself_u1xbh6v5_137e74</name>
+   <tag></tag>
+   <elementGuidId>b96d7cb2-b075-42b5-acc4-ce35dcb40741</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.u1xbh6v5.p1fv2xvi.jitY_MhFLxF9phhQ5f6_.BMoTSPIhIhblJoKS4B9b.iKUXaBDX4rUwYXYMtcvz.c148e1tk</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3cce4148-4c1e-4b56-8ae3-e3ee928a380a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>f1df96c2-22f4-4869-861d-373775d5134b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u1xbh6v5 p1fv2xvi jitY_MhFLxF9phhQ5f6_ BMoTSPIhIhblJoKS4B9b iKUXaBDX4rUwYXYMtcvz c148e1tk</value>
+      <webElementGuid>6de2eba5-448d-4477-891d-85f104177b94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7287defe-0ce7-4b1f-8879-ef1e15d8f6b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;Es8downQlxiASDyltHtn HhJ8keLZ1SBupKzmsP0V _C_TCiqAjdTOkIIzyy7N hzNtQT3DRnRbKEc8uEG2 _CT5fMYYPxxNEyDeQ0Jh&quot;]/button[@class=&quot;u1xbh6v5 p1fv2xvi jitY_MhFLxF9phhQ5f6_ BMoTSPIhIhblJoKS4B9b iKUXaBDX4rUwYXYMtcvz c148e1tk&quot;]</value>
+      <webElementGuid>0bb60fa3-bbf0-4919-9592-162ff0d2dbea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>c9f29a27-9ecc-44d7-98ca-4e0be7027bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book an event with yourself'])[1]/following::button[1]</value>
+      <webElementGuid>c3b3e5fe-f98a-4acd-9444-bd7549284ea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an event type'])[1]/following::button[2]</value>
+      <webElementGuid>32946411-1f35-47a1-9c75-c0d8255cb65d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/button</value>
+      <webElementGuid>ccdfca77-1756-4e5c-84d9-f2c475e8dba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>4ab43ccc-1b34-472f-bfba-84c46bb35110</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
