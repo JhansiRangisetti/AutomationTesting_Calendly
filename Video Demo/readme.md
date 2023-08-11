@@ -1,2 +1,0 @@
-Project for DemoVideo
-https://github.com/JhansiRangisetti/AutomationTesting_Calendly/tree/cd367d736a5460c0454ef69eac8c19c020a58f03/Video%20Demo
